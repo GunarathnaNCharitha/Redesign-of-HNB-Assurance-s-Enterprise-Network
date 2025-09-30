@@ -5,14 +5,15 @@
 
 🔗 [HNB Assurance Website](https://www.hnbassurance.com)  
 
+**Note: All configs, IPs, and diagrams in this repo are **sanitized**. No customer data is exposed**. 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 As Lead Engineer, I directed the **redesign of HNB Assurance’s enterprise network** across headquarters and multiple branches. The project modernized core infrastructure, consolidated firewalls, and enhanced both performance and security for a large financial services provider in Sri Lanka.  
 
 ---
 
-## 🎯 Business Challenges
+## Business Challenges
 - Aging and fragmented network hardware across branches.  
 - Decentralized firewall deployments that created complexity.  
 - Limited wireless coverage and poor scalability.  
@@ -20,7 +21,7 @@ As Lead Engineer, I directed the **redesign of HNB Assurance’s enterprise netw
 
 ---
 
-## 🛠️ Solution Implemented
+## Solution Implemented
 The network redesign centered on **centralized security and modern switching/wireless solutions**:  
 - **Palo Alto Next-Generation Firewalls (NGFWs)** for unified security.  
 - **Extreme Networks Switches & APs** for high-performance LAN/WLAN.  
@@ -29,16 +30,16 @@ The network redesign centered on **centralized security and modern switching/wir
 
 ---
 
-## 📊 Outcomes & Benefits
-- 🔒 **Centralized security** across HQ and branches.  
-- 📡 **High-availability wireless** with seamless coverage.  
-- 🛡️ **Secure segmentation** of critical business units.  
-- 📈 **Optimized bandwidth usage** and reduced downtime.  
-- 🕵️ **Enhanced visibility** into threats and network performance.  
+## Outcomes & Benefits
+- **Centralized security** across HQ and branches.  
+- **High-availability wireless** with seamless coverage.  
+- **Secure segmentation** of critical business units.  
+- **Optimized bandwidth usage** and reduced downtime.  
+- **Enhanced visibility** into threats and network performance.  
 
 ---
 
-## 📈 My Key Contributions
+## My Key Contributions
 - Designed the **end-to-end network architecture**.  
 - Oversaw migration from legacy hardware to Palo Alto NGFWs.  
 - Deployed **Extreme wireless infrastructure** across HQ and branches.  
@@ -47,6 +48,3 @@ The network redesign centered on **centralized security and modern switching/wir
 
 ---
 
-
-
-> ⚠️ **Note:** All configs and diagrams are sanitized. No sensitive customer data is exposed.  
