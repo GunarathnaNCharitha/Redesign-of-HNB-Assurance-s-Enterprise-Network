@@ -1,5 +1,7 @@
 # Enterprise Network Redesign for HNB Assurance PLC  
-**Role:** Lead Network & Security Engineer (AcSys Networks)  
+<p>
+  <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
+</p>
 
 🔗 [HNB Assurance Website](https://www.hnbassurance.com)  
 
