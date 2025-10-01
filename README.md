@@ -1,4 +1,4 @@
-# Enterprise Network Redesign for HNB Assurance PLC  
+# Enterprise Network Redesign for HNB Assurance PLC
 <p>
   <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
 </p>
